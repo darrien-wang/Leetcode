@@ -1,2 +1,2 @@
 # Leetcode
-grind75
+NOTE about Leetcode
